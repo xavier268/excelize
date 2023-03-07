@@ -11,8 +11,8 @@ require (
 	github.com/xuri/efp v0.0.0-20220603152613-6918739fd470
 	github.com/xuri/nfp v0.0.0-20220409054826-5e722a1d9e22
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
-	golang.org/x/image v0.0.0-20220413100746-70e8d0d3baa9
-	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
-	golang.org/x/text v0.3.7
+	golang.org/x/image v0.5.0
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/text v0.7.0
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
